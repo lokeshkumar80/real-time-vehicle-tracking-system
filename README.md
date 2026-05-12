@@ -3,8 +3,8 @@
 > An IoT-based GPS Vehicle Tracking System using **ESP32**, **NEO-6M GPS**, **SIM900A GSM/GPRS**, **ThingSpeak Cloud**, **PHP Backend**, and **Mapbox GL JS** for real-time vehicle monitoring and live map visualization.
 
 <p align="center">
-  <img src="Device1.jpg" width="45%">
-  <img src="Device3.jpg" width="45%">
+  <img src="images/Device1.jpg" width="45%">
+  <img src="images/Device3.jpg" width="45%">
 </p>
 
 ---
@@ -51,8 +51,8 @@ This project combines:
 ## 🔧 Hardware Prototype
 
 <p align="center">
-  <img src="Device1.jpg" width="45%">
-  <img src="Device3.jpg" width="45%">
+  <img src="images/Device1.jpg" width="45%">
+  <img src="images/Device3.jpg" width="45%">
 </p>
 
 ---
@@ -60,7 +60,7 @@ This project combines:
 ## 🗺️ Live Tracking Dashboard
 
 <p align="center">
-  <img src="tracking.png" width="90%">
+  <img src="images/tracking.png" width="90%">
 </p>
 
 ---
@@ -68,7 +68,7 @@ This project combines:
 ## ⚡ Circuit Diagram
 
 <p align="center">
-  <img src="Circuit.png" width="70%">
+  <img src="images/Circuit.png" width="70%">
 </p>
 
 ---
@@ -338,7 +338,7 @@ GET https://api.thingspeak.com/channels/CHANNEL_ID/feeds.json
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="tracking.png" width="85%">
+  <img src="images/tracking.png" width="85%">
 </p>
 
 ---
@@ -346,7 +346,7 @@ GET https://api.thingspeak.com/channels/CHANNEL_ID/feeds.json
 ## 📍 Live Location Tracking
 
 <p align="center">
-  <img src="tracking.png" width="85%">
+  <img src="images/tracking.png" width="85%">
 </p>
 
 ---
