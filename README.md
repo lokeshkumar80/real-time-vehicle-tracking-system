@@ -226,24 +226,19 @@ This project combines:
 ```bash
 real-time-vehicle-tracking-system/
 │
-├── firmware/
-│   ├── main.ino
-│
-├── web/
-│   ├── geolocation.php
-│   ├── login.php
-│   ├── logout.php
-│
+├── hardware/
+├── webapp/
 ├── images/
 │   ├── Device1.jpg
 │   ├── Device3.jpg
 │   ├── tracking.png
-│   ├── Circuit.png
+│   └── Circuit.png
 │
 ├── docs/
-│   ├── Major_Project_Report.pdf
+│   └── PROJECT_REPORT.pdf
 │
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
@@ -445,12 +440,6 @@ Fork → Clone → Create Branch → Commit → Push → Pull Request
 This project is licensed under the MIT License.
 
 ---
-
-# 👨‍💻 Author
-
-## Lokesh Kumar
-
-🚀 Embedded Systems & IoT Enthusiast
 
 ### 🔗 GitHub
 https://github.com/lokeshkumar80
